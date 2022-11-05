@@ -2,18 +2,18 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-04T11:45:25Z" name="Suite1" finished-at="2022-11-04T11:46:11Z" duration-ms="45893">
+  <suite started-at="2022-11-05T10:51:38Z" name="Suite1" finished-at="2022-11-05T10:52:12Z" duration-ms="34437">
     <groups>
     </groups>
-    <test started-at="2022-11-04T11:45:25Z" name="Nopackage" finished-at="2022-11-04T11:46:11Z" duration-ms="45893">
+    <test started-at="2022-11-05T10:51:38Z" name="Nopackage" finished-at="2022-11-05T10:52:12Z" duration-ms="34437">
       <class name="com.hrms.testscripts.Tc_002">
-        <test-method signature="tc_002()[pri:0, instance:com.hrms.testscripts.Tc_002@553a3d88]" started-at="2022-11-04T17:15:45Z" name="tc_002" finished-at="2022-11-04T17:16:11Z" duration-ms="26195" status="PASS">
+        <test-method signature="tc_002()[pri:0, instance:com.hrms.testscripts.Tc_002@553a3d88]" started-at="2022-11-05T16:21:44Z" name="tc_002" finished-at="2022-11-05T16:22:12Z" duration-ms="27895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_002 -->
       </class> <!-- com.hrms.testscripts.Tc_002 -->
       <class name="com.hrms.testscripts.Tc_001">
-        <test-method signature="tc_001()[pri:0, instance:com.hrms.testscripts.Tc_001@51c8530f]" started-at="2022-11-04T17:15:25Z" name="tc_001" finished-at="2022-11-04T17:15:45Z" duration-ms="19690" status="PASS">
+        <test-method signature="tc_001()[pri:0, instance:com.hrms.testscripts.Tc_001@51c8530f]" started-at="2022-11-05T16:21:38Z" name="tc_001" finished-at="2022-11-05T16:21:44Z" duration-ms="6518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_001 -->
