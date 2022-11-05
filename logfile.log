@@ -1,0 +1,86 @@
+2022-10-31 16:34:58,102 INFO  [log] Application opened 
+2022-10-31 16:34:58,957 INFO  [log] LOgin completed 
+2022-10-31 16:34:59,063 INFO  [log] Logout completed 
+2022-10-31 16:34:59,171 INFO  [log] Application closed 
+2022-10-31 16:35:21,980 INFO  [log] Application opened 
+2022-10-31 16:35:22,917 INFO  [log] LOgin completed 
+2022-10-31 16:35:23,007 INFO  [log] Logout completed 
+2022-10-31 16:35:23,159 INFO  [log] Application closed 
+2022-10-31 16:35:41,332 INFO  [log] Application opened 
+2022-10-31 16:35:42,375 INFO  [log] LOgin completed 
+2022-10-31 16:35:42,461 INFO  [log] Logout completed 
+2022-10-31 16:35:42,601 INFO  [log] Application closed 
+2022-11-01 15:58:16,252 INFO  [log] Application opened 
+2022-11-01 15:58:17,371 INFO  [log] LOgin completed 
+2022-11-01 15:58:17,462 INFO  [log] Logout completed 
+2022-11-01 15:58:17,557 INFO  [log] Application closed 
+2022-11-01 15:58:36,393 INFO  [log] Application opened 
+2022-11-01 15:58:37,518 INFO  [log] LOgin completed 
+2022-11-01 15:58:37,596 INFO  [log] Logout completed 
+2022-11-01 15:58:37,684 INFO  [log] Application closed 
+2022-11-01 15:59:48,290 INFO  [log] Application opened 
+2022-11-01 15:59:49,545 INFO  [log] LOgin completed 
+2022-11-01 15:59:49,626 INFO  [log] Logout completed 
+2022-11-01 15:59:49,876 INFO  [log] Application closed 
+2022-11-01 15:59:51,901 INFO  [log] Application opened 
+2022-11-01 15:59:53,269 INFO  [log] LOgin completed 
+2022-11-01 15:59:53,329 INFO  [log] Entered into frame 
+2022-11-01 15:59:59,970 INFO  [log] Adding new emp 
+2022-11-01 16:00:02,987 INFO  [log] exit from frame 
+2022-11-01 16:00:03,081 INFO  [log] Logout completed 
+2022-11-01 16:00:03,253 INFO  [log] Application closed 
+2022-11-01 16:12:58,025 INFO  [log] Application opened 
+2022-11-01 16:12:59,333 INFO  [log] LOgin completed 
+2022-11-01 16:12:59,423 INFO  [log] Logout completed 
+2022-11-01 16:12:59,651 INFO  [log] Application closed 
+2022-11-01 16:13:01,663 INFO  [log] Application opened 
+2022-11-01 16:13:02,886 INFO  [log] LOgin completed 
+2022-11-01 16:13:02,959 INFO  [log] Entered into frame 
+2022-11-01 16:13:09,181 INFO  [log] Adding new emp 
+2022-11-01 16:13:12,195 INFO  [log] exit from frame 
+2022-11-01 16:13:12,275 INFO  [log] Logout completed 
+2022-11-01 16:13:12,401 INFO  [log] Application closed 
+2022-11-01 16:13:26,303 INFO  [log] Application opened 
+2022-11-01 16:13:27,908 INFO  [log] LOgin completed 
+2022-11-01 16:13:28,000 INFO  [log] Logout completed 
+2022-11-01 16:13:28,236 INFO  [log] Application closed 
+2022-11-01 16:13:30,241 INFO  [log] Application opened 
+2022-11-01 16:13:31,380 INFO  [log] LOgin completed 
+2022-11-01 16:13:31,438 INFO  [log] Entered into frame 
+2022-11-01 16:13:37,367 INFO  [log] Adding new emp 
+2022-11-01 16:13:40,386 INFO  [log] exit from frame 
+2022-11-01 16:13:40,462 INFO  [log] Logout completed 
+2022-11-01 16:13:40,549 INFO  [log] Application closed 
+2022-11-03 11:23:47,507 INFO  [log] Application opened 
+2022-11-03 11:23:48,345 INFO  [log] LOgin completed 
+2022-11-03 11:23:48,398 INFO  [log] Logout completed 
+2022-11-03 11:23:48,543 INFO  [log] Application closed 
+2022-11-03 11:24:07,095 INFO  [log] Application opened 
+2022-11-03 11:24:07,954 INFO  [log] LOgin completed 
+2022-11-03 11:24:08,009 INFO  [log] Logout completed 
+2022-11-03 11:24:08,176 INFO  [log] Application closed 
+2022-11-03 11:24:09,657 INFO  [log] Application opened 
+2022-11-03 11:24:10,518 INFO  [log] LOgin completed 
+2022-11-03 11:24:10,559 INFO  [log] Entered into frame 
+2022-11-03 11:24:16,610 INFO  [log] Adding new emp 
+2022-11-03 11:24:19,621 INFO  [log] exit from frame 
+2022-11-03 11:24:19,665 INFO  [log] Logout completed 
+2022-11-03 11:24:35,913 INFO  [log] Application closed 
+2022-11-04 15:58:13,006 INFO  [log] Application opened 
+2022-11-04 15:58:13,928 INFO  [log] LOgin completed 
+2022-11-04 15:58:13,986 INFO  [log] Entered into frame 
+2022-11-04 15:58:19,486 INFO  [log] Adding new emp 
+2022-11-04 15:58:22,497 INFO  [log] exit from frame 
+2022-11-04 15:58:22,598 INFO  [log] Logout completed 
+2022-11-04 15:58:22,771 INFO  [log] Application closed 
+2022-11-04 17:15:27,966 INFO  [log] Application opened 
+2022-11-04 17:15:28,797 INFO  [log] LOgin completed 
+2022-11-04 17:15:28,847 INFO  [log] Logout completed 
+2022-11-04 17:15:45,057 INFO  [log] Application closed 
+2022-11-04 17:15:46,141 INFO  [log] Application opened 
+2022-11-04 17:15:46,928 INFO  [log] LOgin completed 
+2022-11-04 17:15:46,962 INFO  [log] Entered into frame 
+2022-11-04 17:15:51,950 INFO  [log] Adding new emp 
+2022-11-04 17:15:54,961 INFO  [log] exit from frame 
+2022-11-04 17:15:55,011 INFO  [log] Logout completed 
+2022-11-04 17:16:11,252 INFO  [log] Application closed 
