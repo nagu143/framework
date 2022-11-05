@@ -84,3 +84,14 @@
 2022-11-04 17:15:54,961 INFO  [log] exit from frame 
 2022-11-04 17:15:55,011 INFO  [log] Logout completed 
 2022-11-04 17:16:11,252 INFO  [log] Application closed 
+2022-11-05 16:21:43,485 INFO  [log] Application opened 
+2022-11-05 16:21:44,476 INFO  [log] LOgin completed 
+2022-11-05 16:21:44,563 INFO  [log] Logout completed 
+2022-11-05 16:21:44,631 INFO  [log] Application closed 
+2022-11-05 16:21:46,724 INFO  [log] Application opened 
+2022-11-05 16:21:47,679 INFO  [log] LOgin completed 
+2022-11-05 16:21:47,735 INFO  [log] Entered into frame 
+2022-11-05 16:21:53,191 INFO  [log] Adding new emp 
+2022-11-05 16:21:56,204 INFO  [log] exit from frame 
+2022-11-05 16:21:56,280 INFO  [log] Logout completed 
+2022-11-05 16:22:12,528 INFO  [log] Application closed 
